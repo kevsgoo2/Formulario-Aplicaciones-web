@@ -1,5 +1,6 @@
 import Boton from "../Componentes/Formulario/Boton.jsx";
 import Campos from "../Componentes/Formulario/Campos.jsx";
+import "../Style/Formulario.css";
 
 const Etiquetas = [
   { etiqueta: "Nombre", tipo: "text", holder: "Ana" },
